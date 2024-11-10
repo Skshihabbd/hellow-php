@@ -1,0 +1,1 @@
+<!-- echo statement is often used to output data to the screen. -->
